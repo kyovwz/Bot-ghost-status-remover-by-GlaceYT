@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/6EVvj5q6qp"];
+const statusMessages = ["FUT 25 Coming Soon..."];
 
 
 let currentIndex = 0;
